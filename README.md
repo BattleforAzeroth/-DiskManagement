@@ -1,8 +1,8 @@
-#磁盘管理DiskManagement
+# 磁盘管理DiskManagement
 
-##要求Requirement
+## 要求Requirement
 
-###实验目的Purpose
+### 实验目的Purpose
 
 1、对磁盘调度的相关知识作进一步的了解，明确磁盘调度的原理。
 Learn more about disk scheduling and clarify the principles of disk scheduling.
@@ -13,7 +13,7 @@ Gain a deeper understanding of the main tasks of disk scheduling.
 3、通过编程，掌握磁盘调度的主要算法。
 Master the main algorithm of disk scheduling through programming.
 
-###实验内容Content
+### 实验内容Content
 
 1、对于如下给定的一组磁盘访问进行调度：
 Schedules a set of disk accesses given below:
@@ -31,16 +31,16 @@ It is required to give the order of disk access and calculate the average number
 4、假定当前读写头在90号，电梯调度算法向磁道号增加的方向移动。
 Assuming that the current read/write head is at number 90, the elevator scheduling algorithm moves in the direction of increasing track number.
 
-##运行环境Environment
+## 运行环境Environment
 
 程序在Linux平台上编写，Qt(C++)实现可视化。
 Based on Qt(C++) for Linux.
 
-##界面UI
+## 界面UI
 
 
 
-##数据说明Data
+## 数据说明Data
 
 通过**data.txt**文件读入数据。
 Read in data via **data.txt** file
