@@ -38,7 +38,7 @@ Based on Qt(C++) for Linux.
 
 ## 界面UI
 
-
+![image](https://github.com/BattleforAzeroth/DiskManagement/blob/main/2022-02-23%2011-27-27%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 ## 数据说明Data
 
