@@ -1,8 +1,6 @@
 # 磁盘管理DiskManagement
 
-## 要求Requirement
-
-### 实验目的Purpose
+## 实验目的Purpose
 
 1、对磁盘调度的相关知识作进一步的了解，明确磁盘调度的原理。
 Learn more about disk scheduling and clarify the principles of disk scheduling.
@@ -13,7 +11,7 @@ Gain a deeper understanding of the main tasks of disk scheduling.
 3、通过编程，掌握磁盘调度的主要算法。
 Master the main algorithm of disk scheduling through programming.
 
-### 实验内容Content
+## 实验内容Content
 
 1、对于如下给定的一组磁盘访问进行调度：
 Schedules a set of disk accesses given below:
