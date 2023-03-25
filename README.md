@@ -14,11 +14,11 @@
 
 1. Schedules a set of disk accesses given below:
 
-| 请求服务到达 | A   | B   | C   | D   | E   | F   | G   | H   | I   | J   | K   | L   | M   | N   |
+| requests | A   | B   | C   | D   | E   | F   | G   | H   | I   | J   | K   | L   | M   | N   |
 | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 访问的磁道号 | 30  | 50  | 100 | 180 | 20  | 90  | 150 | 70  | 80  | 10  | 160 | 120 | 40  | 110 |
+| requests for cylinders | 30  | 50  | 100 | 180 | 20  | 90  | 150 | 70  | 80  | 10  | 160 | 120 | 40  | 110 |
 
-2. It is required to use first-come, first-served, shortest seek priority and elevator scheduling algorithms for scheduling.
+2. It is required to use First Come First Serve (FCFS), Shortest Seek Time First (SSTF) and elevator algorithm (SCAN)  for scheduling.
 
 3. It is required to give the order of disk access and calculate the average number of moving lanes in each algorithm.
 
